@@ -1,0 +1,14 @@
+D:\Azman\Az_IsDB\ESAD_CS_R69_WADA\M_03_C#\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\obj\Debug\Ex_01_OOP_Generic.csproj.AssemblyReference.cache
+D:\Azman\Az_IsDB\ESAD_CS_R69_WADA\M_03_C#\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\obj\Debug\Ex_01_OOP_Generic.csproj.CoreCompileInputs.cache
+D:\Azman\Az_IsDB\ESAD_CS_R69_WADA\M_03_C#\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\bin\Debug\Ex_01_OOP_Generic.exe.config
+D:\Azman\Az_IsDB\ESAD_CS_R69_WADA\M_03_C#\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\bin\Debug\Ex_01_OOP_Generic.exe
+D:\Azman\Az_IsDB\ESAD_CS_R69_WADA\M_03_C#\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\bin\Debug\Ex_01_OOP_Generic.pdb
+D:\Azman\Az_IsDB\ESAD_CS_R69_WADA\M_03_C#\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\obj\Debug\Ex_01_OOP_Generic.exe
+D:\Azman\Az_IsDB\ESAD_CS_R69_WADA\M_03_C#\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\obj\Debug\Ex_01_OOP_Generic.pdb
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\C# Class\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\bin\Debug\Ex_01_OOP_Generic.exe.config
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\C# Class\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\bin\Debug\Ex_01_OOP_Generic.exe
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\C# Class\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\bin\Debug\Ex_01_OOP_Generic.pdb
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\C# Class\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\obj\Debug\Ex_01_OOP_Generic.csproj.AssemblyReference.cache
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\C# Class\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\obj\Debug\Ex_01_OOP_Generic.csproj.CoreCompileInputs.cache
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\C# Class\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\obj\Debug\Ex_01_OOP_Generic.exe
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\C# Class\Class_018\WADA_R69_M03_D018\Ex_01_OOP_Generic\obj\Debug\Ex_01_OOP_Generic.pdb
